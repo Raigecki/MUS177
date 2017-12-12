@@ -308,7 +308,7 @@ void adsrInit(int a, int d, int s, int r) {
 	sustain = s;
 	release = r;
 }
-
+/*
 void wavetable_init( type) {
 	int32_t i;
 
@@ -392,7 +392,7 @@ void wavetable_init( type) {
 
 	}
 
-}
+}*/
 
 void synth_init() {
 
